@@ -1,0 +1,45 @@
+html {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.first-name {
+  padding-top: 3em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40pt;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+h3 {
+  text-align: center;
+}
+
+small {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  margin-left: 2em;
+}
+
+.email {
+  padding: 3em;
+}
+
+.number {
+  padding: 3em;
+}
+
+.contact-info {
+  text-align: center;
+}
